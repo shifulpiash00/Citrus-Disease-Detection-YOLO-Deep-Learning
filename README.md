@@ -5,11 +5,7 @@
 
 ## 📖 Abstract
 
-Early detection of plant diseases is critical for improving agricultural productivity and reducing economic losses. Traditional manual inspection methods are inefficient and prone to human error.  
-
-This project presents a deep learning-based object detection framework for identifying citrus leaf diseases using three state-of-the-art YOLO architectures: YOLOv5, YOLOv8, and YOLOv9.
-
-A comprehensive comparative analysis was conducted using standard object detection evaluation metrics. Experimental results demonstrate that YOLOv9 achieved the best overall performance in terms of accuracy and robustness.
+Citrus diseases such as black spot, greening, canker, and melanose significantly affect crop yield and farmer livelihoods. This study presents a deep learning-based object detection framework using YOLOv5, YOLOv8, and YOLOv9 for early disease identification in citrus plants. A dataset of over 5300 annotated images was used to train and evaluate the models. Experimental results show that YOLOv9 achieved superior overall performance, with high detection accuracy across multiple disease categories. The proposed system provides an effective solution for automated citrus disease monitoring in smart agriculture.
 
 ---
 
