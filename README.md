@@ -63,9 +63,9 @@ The complete pipeline consists of:
 
 Architecture diagrams are available in:
 
-```
-images/architecture/
-```
+
+`images/architecture/`
+
 
 Example:
 
@@ -112,9 +112,10 @@ YOLOv9 was selected as the best-performing model for this dataset.
 
 Prediction outputs are available in:
 
-```
-images/predictions/
 
+`images/predictions/`
+
+````
 Example:
 
 ![YOLOv9 Detection](images/predictions/Pred1_v9.PNG)
@@ -127,7 +128,7 @@ Example:
 Confusion matrices are available in:
 
 ```
-images/confusion_matrix/
+`images/confusion_matrix/`
 
 Example:
 
