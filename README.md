@@ -70,7 +70,7 @@ images/architecture/
 Example:
 
 ```markdown
-![YOLOv9 Architecture](images/architecture/yolov9_archi.png)
+![YOLOv9 Architecture](images/architecture/V9_archi.png)
 ```
 
 ---
@@ -120,7 +120,7 @@ images/predictions/
 Example:
 
 ```markdown
-![YOLOv9 Detection](images/predictions/yolov9_Pred1_v9.png)
+![YOLOv9 Detection](images/predictions/Pred1_v9.PNG)
 ```
 
 ---
@@ -136,7 +136,7 @@ images/confusion_matrix/
 Example:
 
 ```markdown
-![YOLOv9 Confusion Matrix](images/confusion_matrix/Confusion_matrixv9_e40.png)
+![YOLOv9 Confusion Matrix](images/confusion_matrix/Confusion_matrixv9_e40.PNG)
 ```
 
 ---
