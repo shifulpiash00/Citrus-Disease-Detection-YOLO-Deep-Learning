@@ -69,7 +69,6 @@ images/architecture/
 
 Example:
 
-```markdown
 ![YOLOv9 Architecture](images/architecture/V9_archi.png)
 ```
 
