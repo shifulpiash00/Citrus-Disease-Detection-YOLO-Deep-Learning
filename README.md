@@ -114,11 +114,9 @@ Prediction outputs are available in:
 
 ```
 images/predictions/
-```
 
 Example:
 
-```markdown
 ![YOLOv9 Detection](images/predictions/Pred1_v9.PNG)
 ```
 
@@ -130,11 +128,9 @@ Confusion matrices are available in:
 
 ```
 images/confusion_matrix/
-```
 
 Example:
 
-```markdown
 ![YOLOv9 Confusion Matrix](images/confusion_matrix/Confusion_matrixv9_e40.PNG)
 ```
 
