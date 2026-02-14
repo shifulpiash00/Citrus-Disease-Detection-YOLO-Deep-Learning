@@ -63,14 +63,11 @@ The complete pipeline consists of:
 
 Architecture diagrams are available in:
 
-
 `images/architecture/`
 
-
-Example:
+### YOLOv9 Architecture
 
 ![YOLOv9 Architecture](images/architecture/V9_archi.png)
-```
 
 ---
 
@@ -93,16 +90,16 @@ Example:
 ## 📈 Results & Performance Comparison
 
 | Model   | mAP@0.5 | Overall Accuracy |
-|----------|----------|------------------|
-| YOLOv5  | 86%      | 83.40%           |
-| YOLOv8  | 80%      | 82.90%           |
-| YOLOv9  | 85%      | 84.10% ⭐        |
+|---------|---------|------------------|
+| YOLOv5  | 86%     | 83.40%           |
+| YOLOv8  | 80%     | 82.90%           |
+| YOLOv9  | 85%     | 84.10% ⭐        |
 
 ### 🔎 Key Findings
 
-- YOLOv5 achieved the highest mAP@0.5.
-- YOLOv9 demonstrated superior overall accuracy and balanced detection performance.
-- YOLOv8 showed competitive performance with optimized inference speed.
+- YOLOv5 achieved the highest mAP@0.5.  
+- YOLOv9 demonstrated superior overall accuracy and balanced detection performance.  
+- YOLOv8 showed competitive performance with optimized inference speed.  
 
 YOLOv9 was selected as the best-performing model for this dataset.
 
@@ -112,14 +109,11 @@ YOLOv9 was selected as the best-performing model for this dataset.
 
 Prediction outputs are available in:
 
-
 `images/predictions/`
 
-````
-Example:
+### YOLOv9 Detection Example
 
 ![YOLOv9 Detection](images/predictions/Pred1_v9.PNG)
-```
 
 ---
 
@@ -127,13 +121,11 @@ Example:
 
 Confusion matrices are available in:
 
-```
 `images/confusion_matrix/`
 
-Example:
+### YOLOv9 Confusion Matrix
 
 ![YOLOv9 Confusion Matrix](images/confusion_matrix/Confusion_matrixv9_e40.PNG)
-```
 
 ---
 
@@ -184,6 +176,7 @@ Execute:
 
 ---
 
+
 Research Interests:
 - Computer Vision  
 - Deep Learning  
@@ -195,3 +188,5 @@ Research Interests:
 ## 📌 License
 
 This project is intended for academic research and educational purposes.
+
+---
